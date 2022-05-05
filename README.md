@@ -1,4 +1,4 @@
-# Nome do projeto
+# Round rock plumbing
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
@@ -18,9 +18,9 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Tornar responsivo
 
 
-## ☕ Usando <round-rock-plumbing>
+## ☕ Usando <round_rock_plumbing>
 
-Para usar <round-rock-plumbing>, siga estas etapas:
+Para usar <round_rock_plumbing>, siga estas etapas:
 
 ```
 <Entrar no link "https://limael.github.io/round-rock-plumbing/">
@@ -44,4 +44,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 </table>
 
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#Round_rock_plumbing)<br>
