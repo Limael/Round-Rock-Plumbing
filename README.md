@@ -18,7 +18,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Tornar responsivo
 
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando <round-rock-plumbing>
 
 Para usar <round-rock-plumbing>, siga estas etapas:
 
