@@ -17,13 +17,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Terminar o CSS
 - [ ] Tornar responsivo
 
-## 💻 Pré-requisitos
-
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-
 
 ## ☕ Usando <nome_do_projeto>
 
